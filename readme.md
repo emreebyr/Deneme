@@ -1,4 +1,3 @@
 # Deneme
 
-## Alt Bilgi
 
